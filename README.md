@@ -21,12 +21,16 @@ https://public.tableau.com/app/profile/tanmayee.ashok.dharam/viz/BritishAirwaysR
 
 # Interactive Visualizations:
 • Average Review by Months (Line Graph): This dynamic line graph displays the average review scores over months, allowing users to identify trends and patterns in customer feedback.
+
 • Average Review by Continent (Map Graph): The map visualization provides a geographical perspective, showcasing the average review scores by continent. This helps identify global trends and regional variations in passenger experiences, facilitating targeted improvements in specific areas.
+
 • Average Review by Aircraft (Bar Chart): The bar chart breaks down the average review scores and number of reviews by aircraft, providing insights into the performance of each aircraft. This allows British Airways to prioritize improvements based on the feedback from different aircraft.
 
 # Benefits
 • Informed Decision-Making: By analyzing the average reviews over time, British Airways can make informed decisions on where to focus efforts for service improvements.
+
 • Regional Performance Analysis: Understanding how different continents rate the services helps in tailoring strategies for specific markets.
+
 • Aircraft-Specific Insights: Identifying strengths and weaknesses in different aircraft and guiding the allocation of resources for maintenance and improvements.
 
 # Conclusion:
