@@ -2,7 +2,7 @@
 Created an Interactive Tableau Dashboard for British Airways Reviews
 
 # Overview:
-This comprehensive dashboard offers detailed insight into British Airways' customer reviews, enabling a holistic understanding of the airline's performance. Its interactive features allow users to analyze and explore reviews based on key metrics, contributing to data-driven decision-making for service enhancement.
+This project focuses on analyzing British Airways review data using data visualization techniques. The dataset was obtained from Kaggle and underwent data preprocessing to ensure data integrity. Subsequently, a comprehensive British Airways Review Dashboard was created using Tableau. This comprehensive dashboard offers detailed insight into British Airways' customer reviews, enabling a holistic understanding of the airline's performance. Its interactive features allow users to analyze and explore reviews based on key metrics, contributing to data-driven decision-making for service enhancement.
 
 # Dataset Overview:
 The dataset comprises British Airways review data, including information such as date, travel type, seat type, aircraft group, continent, and various review metrics such as overall rating, cabin staff service, food quality, entertainment, ground service, and seat comfort.
